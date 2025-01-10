@@ -5,21 +5,21 @@
 Objects:
 
 UI:
-The number of seeds planted
-The number of seeds remaining
-    The UI changes every time a seed is planted
+The number of seeds planted.
+The number of seeds remaining.
+    - The UI changes every time a seed is planted
 
 Player:
-Movement around the map
-    WASD keys
-Planting the seeds
-    Space Key
-Press the space bar to plant the seed
+Movement around the map.
+    - WASD keys
+Planting the seeds.
+    - Space Key
+Press the space bar to plant the seed.
 
 Seeds:
-Remain on screen when the player plants them
-Only have up to 5
-    -1 seed every time the player plants again
+Remain on screen when the player plants them.
+Only have up to 5.
+    - -1 seed every time the player plants again
 
 
 ## Devlog
