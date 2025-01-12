@@ -27,6 +27,7 @@ Prompt: Include the HW1 break-down exercise you wrote during the Week 1 - Lectur
 
 
 Write your Devlog here!
+I plan to take each part of the break down and code it and hook it up into Unity to make sure that everything works one at a time. After I am able to accomplish that, I am going to make sure that the components and objects are able to work together. For example, I am going to first try to create the prefab for the seed, then code it to plant it, and then tie it together into changing the UI as I make that move. I started my coding with trying to set up the UI for the game because it felt like it would be the easiest to start on, especially because I understood how to implement the "_text" easily. After I ran it, I realized I needed to hook up the scripts to the gameobjects, so then I worked on that. I then worked on the movement for my character and instead of trying to make them move by clicking each letter, I wanted to do it by making it move both vertically and horizontally. I hooked up an int for each one and created a new Vector3 which would move both of them and translate it with moving * the speed * the delta time.
 
 
 ## Open-Source Assets
